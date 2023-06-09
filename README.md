@@ -3,3 +3,5 @@ This file contains the codes used for the IDA early warning tool project. It con
 - Perform statistical tests to discover significant predictive variables
 - Perform a Random Forest classifier model
 - Evaluate the Random Forest classifier performance
+
+Special thanks to Mette Lindhout for co-writing this Python script.
